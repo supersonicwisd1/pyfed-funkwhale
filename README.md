@@ -262,3 +262,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 This is just a starting point, and the approach may evolve as we progress with the implementation. We welcome contributions and feedback from the community to help shape the library into a robust and reliable implementation of the ActivityPub protocol.
 
+![ActivityPub](flow.drawio.png)
