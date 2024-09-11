@@ -258,6 +258,10 @@ For more information on ActivityPub and its ecosystem, please see the following 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
+## Timeline
+**Review of Library by October**
+**Completion by December**
+
 ---
 
 This is just a starting point, and the approach may evolve as we progress with the implementation. We welcome contributions and feedback from the community to help shape the library into a robust and reliable implementation of the ActivityPub protocol.
