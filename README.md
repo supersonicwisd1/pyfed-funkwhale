@@ -1,3 +1,5 @@
+# THIS DOCUMENT HAVE BEEN MOVED To [HERE](https://dev.funkwhale.audio/kenechukwu-orjiene/pyfed).
+
 # Building an ActivityPub Library for Python Developers
 ## Introduction
 ActivityPub is a protocol for social networking that is decentralized enabling the interchange of data between different social media systems. Thus, its aim of this library is to create the ActivityPub protocol in the form of Python language to the benefit of python programmers who wish to incorporate ActivityPub in their Apps. With that in mind, it is clear that ActivityPub would transform our online interactions for the better as it encourages users to leave the centralized, client-server model for more decentralized, federated networks. This library will appeal to developer of decentralized social networks, enthusiastic studying the federated protocols and all those who would like to develop social applications.
