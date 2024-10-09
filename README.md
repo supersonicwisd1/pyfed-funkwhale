@@ -1,4 +1,4 @@
-# THIS DOCUMENT HAVE BEEN MOVED To [HERE](https://dev.funkwhale.audio/kenechukwu-orjiene/pyfed).
+# THIS DOCUMENT HAVE BEEN MOVED To [HERE](https://dev.funkwhale.audio/funkwhale/pyfed).
 
 # Building an ActivityPub Library for Python Developers
 ## Introduction
